@@ -1,0 +1,5 @@
+pandas
+pyarrow
+azure-storage-blob
+google-api-python-client
+google-auth

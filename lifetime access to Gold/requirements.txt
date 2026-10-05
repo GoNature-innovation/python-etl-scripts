@@ -1,0 +1,5 @@
+pandas==3.0.3
+openpyxl
+google-auth==2.53.0
+google-api-python-client==2.198.0
+python-dotenv==1.2.3
