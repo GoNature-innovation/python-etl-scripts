@@ -1,0 +1,14 @@
+# Ignore .env files everywhere
+.env
+**/.env
+
+# Ignore Google service account files everywhere
+google-service-account.json
+**/google-service-account.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
